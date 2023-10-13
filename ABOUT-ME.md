@@ -16,4 +16,4 @@ i`m kind person and enjoying life. Electrical Engineer with focus on High Voltag
 
 | $Instagram$ |[Rizqi](https://www.instagram.com/zulfikar_r_a_p/)|
 |-------------|-------------------|
-| *Whatsapp*  | +62 822 1342 6968 |
+| *Whatsapp*  |[Rizqi](https://wa.me/6282213426968)|
