@@ -17,5 +17,3 @@ i`m kind person and enjoying life. Electrical Engineer with focus on High Voltag
 | $Instagram$ | zulfikar_r_a_p    |
 |-------------|-------------------|
 | *Whatsapp*  | +62 822 1342 6968 |
-|             |                   |
-
