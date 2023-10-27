@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading Fake</title>
+</head>
+<body>
+    <!-- Fake Loading -->
+    <div id="loading" style="display: flex; justify-content: center;
+    align-items: center; height: 100vh;">
+    </div>
+    <script>
+        onload = function() {
+            let id = document.getElementById("loading")
+            let loading = document.createElement("div")
+            
+            loading.textContent = "Loading"
+            loading.style.fontSize = "28px"
+            id.appendChild(loading)
+
+            let loaded = setInterval(function(){
+                loading.textContent = loading.textContent + "."
+            }, 1000)
+
+            setTimeout(function() {
+                clearInterval(loaded)
+                loading.textContent = "WELCOME TO MY PAGE"
+            }, 4000)
+        }
+    </script>
+    <!-- Batas Fake Loading -->
+</body>
+</html>
